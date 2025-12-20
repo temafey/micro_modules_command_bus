@@ -5,7 +5,7 @@
     "license": ["proprietary"],
     "require": {
         "php": "^8.0",
-        "league/tactician-bundle": "^1.5",
+        "micro-module/tactician-bundle": "^1.6",
         "micro-module/tactician-command-events": "^0.8"
     },
     "require-dev": {
